@@ -23,7 +23,7 @@ class TestLogin:
         object1.test_signin_section()
         object1.test_email_textbox(mobile)
         object1.test_email_submit()
-        time.sleep(5)
+        time.sleep(6)
         self.driver.close()
 # driver.close()
 
